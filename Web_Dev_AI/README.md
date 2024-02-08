@@ -3,6 +3,7 @@
 
 #### Project Root data structure
 
+```
 root@dd167f326b80:/tensorfl_vision/Web_Dev_AI# tree -d
 .
 ├── Images
@@ -16,6 +17,7 @@ root@dd167f326b80:/tensorfl_vision/Web_Dev_AI# tree -d
 └── templates
 
 10 directories
+```
 
 ```
 Templates folder contains all html files
