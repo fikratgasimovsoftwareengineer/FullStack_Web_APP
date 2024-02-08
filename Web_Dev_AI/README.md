@@ -37,6 +37,6 @@ $ python3 server_dev_db.py
 
 #### Note:
 #### Please first insert all images or icons to static/images folder , before running application
-
+#### Please, also add pretrained models to models folders, before running an application!
 
 
