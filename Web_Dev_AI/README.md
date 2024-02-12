@@ -1,6 +1,11 @@
 ## Full Stack Webb APP Development
 
 
+#### View DEMO or Prototype via link:
+
+["Web APP Object Detection"](https://youtu.be/DPW319gWQbU)
+
+
 #### Project Root data structure
 
 ```
