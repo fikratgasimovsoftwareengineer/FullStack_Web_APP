@@ -4,46 +4,46 @@
 $ pip install transformers
 
 
-Installl following packages for react-web, we need to install
+2. Installl following packages for react-web, we need to install
 
 $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 oR
 $ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 
-Add to bash
+3. Add to bash
 
 $ source ~/.bashrc
 ----------INSTALL LATEST NODE----------------------
 $ nvm install node
 
-Install latest npm
+4. Install latest npm
 $ apt install -y npm
 
-If npm is not latest. Then install npm latest
+5. If npm is not latest. Then install npm latest
 $ npm update -g
 
-React Routing:
+6. React Routing:
 $ yarn add react-router-dom
 
-Bootstrap install
+7. Bootstrap install
 $ npm install react-bootstrap bootstrap or yarn add react-bootstrap bootstrap
 
 
 
-We have to install react hook form:
+8. We have to install react hook form:
 $ npm install react-hook-form or yarn add react-hook-form
 
 
-Install these for Flask-Server:
+10. Install these for Flask-Server:
 
 $ pip install flask flask-cors
 $ yarn add axios
 
-#################################
 
-Install additional react packages!
+
+11. Install additional react packages!
 
 npm install --save react-router-hash-link
 npm install jwt-decode
 
-npm install react-chartjs-2 chart.js
+12. npm install react-chartjs-2 chart.js
