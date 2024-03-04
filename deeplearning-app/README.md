@@ -1,6 +1,6 @@
 ### Install requirements as the following:
  
-Pip install transformers of Huggin face
+1. Pip install transformers of Huggin face
 $ pip install transformers
 
 
@@ -38,7 +38,9 @@ Install these for Flask-Server:
 
 $ pip install flask flask-cors
 $ yarn add axios
-#################################3
+
+#################################
+
 Install additional react packages!
 
 npm install --save react-router-hash-link
