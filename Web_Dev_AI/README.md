@@ -8,7 +8,7 @@
 
 #### Project Root data structure
 
-```
+```shell
 root@dd167f326b80:/tensorfl_vision/Web_Dev_AI# tree -d
 .
 ├── Images
@@ -33,15 +33,16 @@ models folder contains classes.txt and prebuild models
 ```
 
 ### please install requirements first
-
+```shell
 $ pip install -r requirements.txt
-
+```
 #### To run the code you need to run the command:
 
+```shell
 $ python3 server_dev_db.py
+```
 
-#### Note:
-#### Please first insert all images or icons to static/images folder , before running application
-#### Please, also add pretrained models to models folders, before running an application!
+### Note:
+Please first insert all images or icons to static/images folder , before running application. Please, also add pretrained models to models folders, before running an application!
 
 
