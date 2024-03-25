@@ -1,5 +1,5 @@
-# Hi, you are in Wep App NLP repository where  you will handle Web app based on React Funtionality , Flask Server Rest Api, and Deep Learning LLM models
-### first  you need to install important packages manually. within docker running 
+## Hi, you are in Wep App NLP repository where  you will handle Web app based on React Funtionality , Flask Server Rest Api, and Deep Learning LLM models
+### Initially,  you need to install important packages manually. within docker running 
 
 ```shell
  Pip install transformers of Huggin face
