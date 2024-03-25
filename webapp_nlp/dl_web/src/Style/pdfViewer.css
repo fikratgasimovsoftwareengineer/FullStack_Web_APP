@@ -1,0 +1,77 @@
+
+
+
+.dropzone {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  height: 240px;
+  width: 50%;
+  border: 5px dashed  #5f476b;
+  transform: translate(28rem, 10rem);
+  transition: transform 0.2s ease; /* Smooth transition for the transform */
+}
+.dropzone.active {
+  transform: translate(28rem, 10rem) scale(1.05); /* Slightly scale up when active */
+}
+
+.active {
+  background-color: #937575;
+}
+
+.list-item {
+  display: flex;
+  padding: 0;
+  margin: 8px 0;
+  min-width: 300px;
+  font-size: 22px;
+  background-color: #b15757;
+  cursor: grab;
+  border-radius: 10px;
+}
+
+.list-item > h3 {
+  padding: 10px;
+  margin: 0;
+}
+
+.list-item > span {
+  margin-right: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  border-right: 2px solid rgb(220, 165, 165);
+  padding: 10px;
+  padding-right: 16px;
+}
+
+.next-position {
+  border: 2px solid #0d1f10;
+  opacity: 0.2;
+}
+
+.select-pdf{
+
+  transform: translate(0rem, 4rem);
+  background-color: #937575;
+
+}
+
+.chatbotManage{
+  transform: translate(0rem, 10rem);
+  background-color: #8654ac;
+  border: none;
+  color: white;
+  border-radius: 50%; 
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ 
+}
+.chat{
+
+  transform: translate(80rem, 4rem);
+}
+
