@@ -33,32 +33,32 @@ Below you'll find links to the research papers discussed in throughout videos. Y
 However, if you'd like to take a closer look at the original research, you can read the papers and articles via the links below. 
 
 
-Generative AI Lifecycle
+### Generative AI Lifecycle
 Generative AI on AWS: Building Context-Aware, Multimodal Reasoning Applications
  - (This O'Reilly book dives deep into all phases of the generative AI lifecycle including model selection, fine-tuning, adapting, evaluation, deployment, and runtime optimizations)[https://www.amazon.com/Generative-AI-AWS-Multimodal-Applications/dp/1098159225/]
 Transformer Architecture
-Attention is All You Need
+### Attention is All You Need
  - (This paper introduced the Transformer architecture, with the core “self-attention” mechanism. This article was the foundation for LLMs)[https://arxiv.org/pdf/1706.03762]
 
 BLOOM: BigScience 176B Model 
- - BLOOM is a open-source LLM with 176B parameters trained in an open and transparent way. In this paper, the authors present a detailed discussion of the dataset and process used to train the model. You can also see a high-level overview of the model 
+ - (BLOOM is a open-source LLM with 176B parameters trained in an open and transparent way. In this paper, the authors present a detailed discussion of the dataset and process used to train the model. You can also see a high-level overview of the model) [https://arxiv.org/abs/2211.05100]
 here
 .
 
-Vector Space Models
+(Vector Space Models)[https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/3]
  - Series of lessons from DeepLearning.AI's Natural Language Processing specialization discussing the basics of vector space models and their use in language modeling.
 
-Pre-training and scaling laws
-Scaling Laws for Neural Language Models
+### Pre-training and scaling laws
+Scaling Laws for Neural Language Models[https://arxiv.org/abs/2001.08361]
  - empirical study by researchers at OpenAI exploring the scaling laws for large language models.
 
-Model architectures and pre-training objectives
+### Model architectures and pre-training objectives
 What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?
- - The paper examines modeling choices in large pre-trained language models and identifies the optimal approach for zero-shot generalization.
+ - (The paper examines modeling choices in large pre-trained language models and identifies the optimal approach for zero-shot generalization.)[https://arxiv.org/pdf/2204.05832.pdf]
 
-HuggingFace Tasks
+HuggingFace Tasks [https://huggingface.co/tasks]
  and 
-Model Hub
+Model Hub[https://huggingface.co/models]
  - Collection of resources to tackle varying machine learning tasks using the HuggingFace library.
 
 LLaMA: Open and Efficient Foundation Language Models
