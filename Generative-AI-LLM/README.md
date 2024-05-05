@@ -61,18 +61,18 @@ HuggingFace Tasks [https://huggingface.co/tasks]
 Model Hub[https://huggingface.co/models]
  - Collection of resources to tackle varying machine learning tasks using the HuggingFace library.
 
-LLaMA: Open and Efficient Foundation Language Models
+LLaMA: Open and Efficient Foundation Language Models[https://arxiv.org/pdf/2302.13971.pdf]
  - Article from Meta AI proposing Efficient LLMs (their model with 13B parameters outperform GPT3 with 175B parameters on most benchmarks)
 
-Scaling laws and compute-optimal models
+### Scaling laws and compute-optimal models
 Language Models are Few-Shot Learners
- - This paper investigates the potential of few-shot learning in Large Language Models.
+ - This paper investigates the potential of few-shot learning in Large Language Models.[https://arxiv.org/pdf/2005.14165.pdf]
 
 Training Compute-Optimal Large Language Models
- - Study from DeepMind to evaluate the optimal model size and number of tokens for training LLMs. Also known as “Chinchilla Paper”.
+ - Study from DeepMind to evaluate the optimal model size and number of tokens for training LLMs. Also known as “Chinchilla Paper”.[https://arxiv.org/pdf/2203.15556.pdf]
 
 BloombergGPT: A Large Language Model for Finance
- - LLM trained specifically for the finance domain, a good example that tried to follow chinchilla laws.
+ - LLM trained specifically for the finance domain, a good example that tried to follow chinchilla laws.[https://arxiv.org/pdf/2303.17564.pdf]
 
 
 ## SECOND SESSION
