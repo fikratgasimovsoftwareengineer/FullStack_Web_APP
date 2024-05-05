@@ -21,7 +21,8 @@ Generative AI use cases, project lifecycle, and model pre-training
 - Describe the steps in a typical LLM-based, generative AI model lifecycle and discuss the constraining factors that drive decisions at each step of model lifecycle
 - Discuss computational challenges during model pre-training and determine how to efficiently reduce memory footprint
 - Define the term scaling law and describe the laws that have been discovered for LLMs related to training dataset size, compute budget, inference requirements, and other factors
-
+- Deep Explanation of Zero Shot, One Shot and Few Shot Inference with Prompt Engineering
+- Use Cases of Zero Shot, Few SHot and Few Shot Inference together with LLM
 
 ## SECOND SESSION
 
