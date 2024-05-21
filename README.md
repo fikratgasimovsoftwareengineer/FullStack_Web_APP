@@ -7,5 +7,9 @@ Please follow all instructions that have been taught during the lecture, regardi
 2. webapp_nlp
 
 
+## I also allocated all necessary notebooks related to Generative AI LLM to which we will be going to throught to be Generative AI Engineer.
+1. Generative-AI-LLM
+
+
 
 
