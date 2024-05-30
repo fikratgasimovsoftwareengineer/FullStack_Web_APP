@@ -8,4 +8,4 @@ Output layer - The final layer of GPT2 is a linear transformation followed by a 
 
 ## NOTE:
 
-Please download dataset from the hugging face as mentioned in the link : (medium articles)[https://huggingface.co/datasets/fabiochiu/medium-articles]
+Please download dataset from the hugging face as mentioned in the link : [medium articles](https://huggingface.co/datasets/fabiochiu/medium-articles)
